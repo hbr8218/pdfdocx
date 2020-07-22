@@ -46,12 +46,11 @@ The code is written in python3. So if you don't have python3 installed on your s
 - Update ~/.bashrc using:- </br>
 `echo "source '`which activate.sh`' "` , remove single qoutes, and </br>
 `source ~/.bashrc`
-- create a .env file in the project's root directory and add the write the followings:- <br>
-  `
-  source path/bin/activate </br>
+- create a .env file in the project's root directory and add the write the followings:- </br>
+  `source path/bin/activate` </br>
   APP_SID="YOUR_APP_SID_KEY" </br>
   APP_KEY="YOUR_APP_KEY"
-  `
+  
 
 ### For Windows users:-
 Above steps(for linux and macOS users) may not work for windows user so they can do the following steps:-
