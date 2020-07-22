@@ -48,8 +48,8 @@ The code is written in python3. So if you don't have python3 installed on your s
 `source ~/.bashrc`
 - create a .env file in the project's root directory and add the write the followings:- <br>
   `
-  source path/bin/activate <br>
-  APP_SID="YOUR_APP_SID_KEY" <br>
+  source path/bin/activate </br>
+  APP_SID="YOUR_APP_SID_KEY" </br>
   APP_KEY="YOUR_APP_KEY"
   `
 
