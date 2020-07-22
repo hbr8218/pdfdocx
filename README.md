@@ -97,10 +97,7 @@ If you find any bug, inform me at hbr8218@gmail.com
 - Deploy on AWS for production.
 
 ## Technologies used
-![alt text](file:///home/hassan/Downloads/WhatsApp%20Image%202020-07-22%20at%2023.05.22.jpeg)
-1. Flask
-2. Groupdocs
-3. Ngrok
+![alt text](https://user-images.githubusercontent.com/42790586/88217854-ca48c880-cc7c-11ea-856c-103d74ce7b1c.jpeg)
 
 ## License
 I worked in the development of this project asked by my college Md. Farhan for a client (@Seema Sharma Dubey)
