@@ -3,16 +3,13 @@
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
-  * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
   * [Run](#run)
-  * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
   * [To Do](#to-do)
-  * [Bug / Feature Request](#bug---feature-request)
+  * [Bug Request](#bug---feature-request)
   * [Technologies Used](#technologies-used)
-  * [Team](#team)
   * [License](#license)
   * [Credits](#credits)
 
@@ -21,7 +18,7 @@
 Here, A video will be released.
 
 ## Overview
-This is flask app that convert a pdf file into docx format using api.
+This is flask app that convert a pdf file into docx format using api. User has to upload a pdf file and on pressing the convert button the file will be converted into file with .docx format and will redirect to another page from where user can download converted file.
 
 ## Technical Aspect
 This project has been divided into three parts:-
@@ -67,7 +64,7 @@ Above steps(for linux and macOS users) may not work for windows user so they can
 
 ## Run
 Run the following command to install all required libraries/dependencies:- </br>
-`pip install -r requirements.txt`
+`pip install -r requirements.txt` </br>
 Finally, Execute `python app.py` to run the app
 
 ## Directory Tree
@@ -91,6 +88,19 @@ Finally, Execute `python app.py` to run the app
 └── uploads
     └── upload.txt
 ```
+## To Do
+- Add options for users to select files from cloud storages like Goolge Drive, Microsoft onedrive, etc.
+- Deploy on AWS for production.
 
+## Technologies used
+1. Flask
+2. Groupdocs
+3. Ngrok
 
+## License
+I worked in the development of this project asked by my college Md. Farhan for a client (@Seema Sharma Dubey)
+
+## Credits
+- This project wouldn't have been possible without Groupdocs API. It saved my enormous amount of time
+- Md. Farhan who helped in Frontend part.
 
