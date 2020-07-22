@@ -8,7 +8,7 @@
   * [Run](#run)
   * [Directory Tree](#directory-tree)
   * [To Do](#to-do)
-  * [Bug Request](#bug---feature-request)
+  * [Bug Request](#bug-request)
   * [Technologies Used](#technologies-used)
   * [License](#license)
   * [Credits](#credits)
@@ -35,7 +35,7 @@ This project has been divided into three parts:-
 
 
 ## Installation
-The code is written in python3. So if you don't have python3 installed on your system then do the following steps:-
+The code is written in python3. So if you don't have python3 installed on your system then do the followings:-
 
 ### For Linux(Ubuntu) and macOS users
 - `sudo apt-get install python3`
@@ -46,7 +46,7 @@ The code is written in python3. So if you don't have python3 installed on your s
 - Update ~/.bashrc using:- </br>
 `echo "source '`which activate.sh`' "` , remove single qoutes, and </br>
 `source ~/.bashrc`
-- create a .env file in the project's root directory and add the write the followings:-
+- create a .env file in the project's root directory and add the write the followings:- <br>
   `
   source path/bin/activate
   APP_SID="YOUR_APP_SID_KEY"
@@ -97,6 +97,7 @@ If you find any bug, inform me at hbr8218@gmail.com
 - Deploy on AWS for production.
 
 ## Technologies used
+![alt text](file:///home/hassan/Downloads/WhatsApp%20Image%202020-07-22%20at%2023.05.22.jpeg)
 1. Flask
 2. Groupdocs
 3. Ngrok
