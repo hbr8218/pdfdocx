@@ -33,7 +33,7 @@ This project has been divided into three parts:-
       - Download binary, compatible with the OS.
       - Unzip the binary
       - Running this command will add your authtoken to the default ngrok.yml configuration file. This will grant you access to more features and longer session times.
-        Running tunnels will be listed on the status page of the dashboard.
+        Running tunnels will be listed on the status page of the dashboard. </br>
         `./ngrok authtoken 1eyhBFdmZkCpEGW8Eo6t6xteZtZ_3y6Z5j4TBMHf4tXy7ed2Q`
 
 
@@ -46,7 +46,9 @@ The code is written in python3. So if you don't have python3 installed on your s
 - `pip3 install virtualenv`
 - In your project directory, excecute `virtualenv venv` where 'venv' is the name of your virtual environment for the project.
 - Activate your virtual environment using `path/bin/activate`, where path should be absolute path of the virtual environment.
-- Update ~/.bashrc using `echo "source `which activate.sh`"` and `source ~/.bashrc`
+- Update ~/.bashrc using:- </br>
+`echo "source '`which activate.sh`' "` , remove single qoutes, and </br>
+`source ~/.bashrc`
 - create a .env file in the project's root directory and add the write the followings:-
   `
   source path/bin/activate
@@ -64,7 +66,7 @@ Above steps(for linux and macOS users) may not work for windows user so they can
 
 
 ## Run
-Run the following command to install all required libraries/dependencies:-
+Run the following command to install all required libraries/dependencies:- </br>
 `pip install -r requirements.txt`
 Finally, Execute `python app.py` to run the app
 
