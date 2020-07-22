@@ -88,6 +88,10 @@ Finally, Execute `python app.py` to run the app
 └── uploads
     └── upload.txt
 ```
+
+## Bug Request
+If you find any bug, inform me at hbr8218@gmail.com
+
 ## To Do
 - Add options for users to select files from cloud storages like Goolge Drive, Microsoft onedrive, etc.
 - Deploy on AWS for production.
