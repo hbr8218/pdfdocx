@@ -1,7 +1,6 @@
 # pdf to docx Converter
 
 ## Table of Content
-  * [Demo](#demo)
   * [Overview](#overview)
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
@@ -13,9 +12,6 @@
   * [License](#license)
   * [Credits](#credits)
 
-
-## Demo
-Here, A video will be released.
 
 ## Overview
 This is flask app that convert a pdf file into docx format using api. User has to upload a pdf file and on pressing the convert button the file will be converted into file with .docx format and will redirect to another page from where user can download converted file.
@@ -72,7 +68,7 @@ Finally, Execute `python app.py` to run the app
 ├── app.py
 ├── config.py
 ├── downloads
-│   ├── download.txt
+│   └── download.txt
 ├── ngrok
 ├── package
 │   ├── __init__.py
