@@ -95,7 +95,7 @@ If you find any bug, inform me at hbr8218@gmail.com
 ![alt text](https://user-images.githubusercontent.com/42790586/88217854-ca48c880-cc7c-11ea-856c-103d74ce7b1c.jpeg)
 
 ## License
-I worked in the development of this project asked by my college Md. Farhan for a client (@Seema Sharma Dubey)
+I worked in the development of this project asked by my college Md. Farhan for a client (@Seema Akash Dubey)
 
 ## Credits
 - This project wouldn't have been possible without Groupdocs API. It saved my enormous amount of time
