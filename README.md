@@ -1,4 +1,4 @@
-# pdf to docx Converter
+# pdf-docx Converter
 
 ## Table of Content
   * [Overview](#overview)
